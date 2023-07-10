@@ -1,2 +1,2 @@
-# book-message-reciever
-Software Architecture | Book Message Receiver using ActiveMQ
+# book-message-receiver
+Software Architecture | Book Message Receiver using ActiveMQ | Lab # 2 (part-3)
